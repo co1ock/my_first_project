@@ -1,1 +1,1 @@
-# 홍정모
+# Inflearn.com
